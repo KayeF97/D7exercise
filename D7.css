@@ -1,0 +1,42 @@
+#head{
+    display: flex;
+    background-color: #91C9C4;
+    padding-left: 20px;
+}
+
+#nav{
+    background-color: #F3AF3D;
+    padding-left: 20px;
+    padding-right: 80px;  
+}
+
+#art{
+    background-color: #F8D767;
+    padding-left: 20px;
+    padding-right: 300px;  
+}
+
+    
+
+#ass{
+    background-color: #FDF288;
+    padding-left: 20px;
+    padding-right: 225px;
+
+}
+
+
+#foot{
+    background-color: #91C9C4;
+    display: flex;
+    padding-left: 20px;
+}
+
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    align-items: stretch; height: 500px;   
+
+}
+
+
